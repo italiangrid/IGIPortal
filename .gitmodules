@@ -1,3 +1,9 @@
 [submodule "IGIPortalRegistration"]
 	path = IGIPortalRegistration
 	url = ../IGIPortalRegistration/
+[submodule "IGIPortalLogin"]
+	path = IGIPortalLogin
+	url = ../IGIPortalLogin/
+[submodule "IGIPortalVOManager"]
+	path = IGIPortalVOManager
+	url = ../IGIPortalVOManager/
